@@ -8,7 +8,8 @@ class LordKrax:
     focus = ["Discord Bots", "Automation", "FiveM Development", "Backend Systems", "Roblox Bots"]
 
     def say_hi(self):
-        return "Building scalable and useful projects."
+        return "Building scalable and useful projects."```
+
 ```
 
 
