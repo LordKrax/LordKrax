@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**LordKrax/LordKrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+class Krax:
+    languages = ["Python", "JavaScript", "Node.js"]
+    focus = ["Discord Bots", "Automation", "FiveM"]
 
-Here are some ideas to get you started:
+    def current_status(self):
+        return "Building cool stuff"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies
+
+* Python
+* JavaScript
+* Node.js
+* Discord.py / Discord.js
+* Git
+* FiveM Development
+
+## 🚀 Projects
+
+* Discord Bots
+* Automation Tools
+* Custom Discord Systems
+* FiveM Resources
+
+## 📫 Reach Me
+
+Discord: LordKrax
