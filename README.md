@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ```py
-class Krax:
+class LordKrax:
     languages = ["Python", "JavaScript", "Node.js"]
     focus = ["Discord Bots", "Automation", "FiveM"]
 
